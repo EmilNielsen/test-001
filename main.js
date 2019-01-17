@@ -1,4 +1,6 @@
-var button = document.querySelector("button");
+//Variabel til at tage fat i knap
+//-Knap fjernet, variabel kommenteret-
+//var button = document.querySelector("button");
 
 function RNG(max) {
     return Math.floor(Math.random() * Math.floor(max) + 1);
