@@ -1,0 +1,15 @@
+.preview {
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+p {
+    color: white;
+    text-shadow: 2px 2px 15px rgba(0,0,0,.5);
+    font-family: arial;
+}
