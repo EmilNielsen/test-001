@@ -1,7 +1,4 @@
 document.addEventListener('DOMContentLoaded', function () {
-    //Variabel til at tage fat i knap
-    //-Knap fjernet, variabel kommenteret-
-    //var button = document.querySelector("button");
     var tal = document.querySelector(".tal");
     var preview = document.querySelector(".preview");
     var previewTal = document.querySelector(".previewTal");
